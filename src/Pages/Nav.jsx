@@ -8,6 +8,7 @@ const Nav = () => {
    CloudRamp
   </a>
 </div>
+<p className="">mim</p>
         </div>
     );
 };
