@@ -92,7 +92,7 @@ const Contact = () => {
             type="submit"
             className="bg-yellow-600 hover:bg-yellow-700 text-white px-6 py-3 rounded-xl font-semibold shadow transition duration-300"
           >
-            Send Message
+            Send Message to Me
           </button>
         </form>
       </div>
