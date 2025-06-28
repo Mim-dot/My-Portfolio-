@@ -3,7 +3,9 @@ import Banner from './Banner';
 import About from './About';
 import Skills from './Skills';
 import Contact from './Contact';
-import Footer from './Footer';
+import Education from './Education';
+import Projects from './Projects';
+
 
 const Home = () => {
     return (
@@ -11,8 +13,10 @@ const Home = () => {
         <Banner/>
         <About/>
         <Skills/>
+        <Education/>
+          <Projects/>
         <Contact/>
-       
+    
         </>
     );
 };

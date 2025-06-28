@@ -38,7 +38,7 @@ const Contact = () => {
   };
 
   return (
-    <section className="min-h-screen bg-gradient-to-b from-orange-50 to-yellow-100 py-16 px-6">
+    <section  id="contact" className="min-h-screen bg-gradient-to-b from-orange-50 to-yellow-100 py-16 px-6">
       <div className="max-w-6xl mx-auto grid grid-cols-1 md:grid-cols-2 gap-12 bg-white rounded-3xl shadow-xl p-8 md:p-14">
         {/* Left Text Section */}
         <div className="space-y-6">
@@ -47,10 +47,10 @@ const Contact = () => {
             Want to discuss a project or just say hi? Feel free to reach out! 😊
           </p>
           <p>
-            <strong>Email:</strong> your@email.com
+            <strong>Email:</strong> mimh84297@gamil.com
           </p>
           <p>
-            <strong>Phone:</strong> +880 1234 567890
+            <strong>Phone:</strong> +880 1996 185598
           </p>
         </div>
 

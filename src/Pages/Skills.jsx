@@ -57,7 +57,7 @@ const itemVariants = {
 
 const Skills = () => {
   return (
-    <section className="min-h-[70vh] bg-gradient-to-b from-yellow-100 to-yellow-200 px-6 py-20">
+    <section  id="skills" className="min-h-[70vh] bg-gradient-to-b from-yellow-100 to-yellow-200 px-6 py-20">
       <div className="max-w-6xl mx-auto">
         <motion.h2
           className="text-5xl font-extrabold text-center mb-14 text-yellow-900 drop-shadow-lg"
