@@ -42,7 +42,7 @@ const About = () => {
         initial="hidden"
         whileInView="show"
         viewport={{ once: true, amount: 0.3 }}
-        className="max-w-6xl w-full grid grid-cols-1 md:grid-cols-2 gap-12 bg-white rounded-3xl shadow-2xl p-8 md:p-14 items-center"
+        className="max-w-6xl w-full grid grid-cols-1 md:grid-cols-2 gap-12 bg-gradient-to-b from-yellow-100 to-yellow-100 rounded-3xl shadow-2xl p-8 md:p-14 items-center"
       >
         {/* Text Section */}
         <motion.div
