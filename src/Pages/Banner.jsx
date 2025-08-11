@@ -85,7 +85,7 @@ const Banner = () => {
           </motion.div>
 
           <motion.a
-            href="/resume.pdf"
+            href="https://drive.google.com/file/d/10BJa2g6MFk1w40WtNq53XpGbvTEq1p3q/view?usp=sharing"
             download
             initial={{ opacity: 0, y: 20 }}
             animate={{ opacity: 1, y: 0 }}
